@@ -1,0 +1,40 @@
+restaurant_sales.csv
+
+
+Date,Item,Category,Quantity,Price
+2026-10-01,Paneer Tikka,Starter,10,220
+2026-10-01,Butter Chicken,Main,8,350
+2026-10-01,Gulab Jamun,Dessert,20,80
+2026-10-01,Veg Biryani,Main,12,250
+2026-10-02,Paneer Tikka,Starter,12,220
+2026-10-02,Butter Chicken,Main,10,350
+2026-10-02,Gulab Jamun,Dessert,25,80
+2026-10-02,Veg Biryani,Main,5,250
+
+
+
+
+
+
+
+
+one_row.csv
+
+
+
+
+Date,Item,Category,Quantity,Price
+2026-10-01,Paneer Tikka,Starter,1,220
+
+
+
+
+
+invalid.csv
+
+
+
+
+Date,Item,Category,Quantity,Price
+2026-10-01,Paneer Tikka,Starter,10,220
+2026-10-03,Lassi,Drink,five,60
